@@ -22,7 +22,7 @@ exports.handler = function (event, context, callback) {
 				StringValue: sender
 			}
 		},
-		PhoneNumber: '+94770630943'
+		PhoneNumber: receiver
 	}).promise()
 		.then(data => {
 			// your code goes here
