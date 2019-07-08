@@ -1,7 +1,8 @@
 {
   "name": "TestSNS",
   "version": "1.0.0",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "aws-sdk": "2.176.0"
   }
 }
